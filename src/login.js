@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Login = () => {
+const Login1 = () => {
   return (
   
 <section class="bg-transparent dark:bg-gray-900">
@@ -51,4 +51,4 @@ const Login = () => {
   )
 }
 
-export default Login
+export default Login1

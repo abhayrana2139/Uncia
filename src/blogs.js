@@ -3,7 +3,7 @@ import facebook from "./Logo/facebook.svg";
 import twitter1 from "./Logo/twitter1.svg";
 import search1 from "./Logo/search1.svg";
 import instagram from "./Logo/instagram.svg";
-import Login from './login';
+import Login1 from './login';
 
 const blogs = () => {
   return (
@@ -51,7 +51,7 @@ const blogs = () => {
 
 
 
-      <Login/>
+      <Login1/>
 
 
       

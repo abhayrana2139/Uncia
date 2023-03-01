@@ -15,9 +15,15 @@ import Popup from './popup';
 import Blogs from './blogs';
 
 
+
 import Similar from './similar';
 
 import Combine from './combine';
+import Login from './pages/login/Login';
+import Write from './pages/write/Write';
+import Register from './pages/register/Register';
+import Single from './pages/single/Single';
+
 
 
 
@@ -103,6 +109,14 @@ function App() {
                     <div><Page7 /></div>
 
                     <div><Blogs /></div>
+
+                    <Login />
+
+                    <Write />
+
+                    <Register/>
+
+                   <Single/>
 
 
                     <div className='h-56 w-10 my-10'>
