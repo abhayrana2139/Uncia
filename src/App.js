@@ -105,6 +105,11 @@ function App() {
                     <div><Blogs /></div>
 
 
+                    <div className='h-56 w-10 my-10'>
+                        hi this is me
+                    </div>
+
+
                     
                 
             
