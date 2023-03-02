@@ -194,7 +194,7 @@ Bike Traveling
                             </div>
                             </div>
                         </div>
-                        </div>t
+                        </div>
   
   
   
