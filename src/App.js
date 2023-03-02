@@ -22,10 +22,8 @@ import Blogs from './blogs';
 import Similar from './similar';
 
 import Combine from './combine';
-import Login from './pages/login/Login';
-import Write from './pages/write/Write';
+import Login from './pages/login/login';
 import Register from './pages/register/Register';
-import Single from './pages/single/Single';
 
 
 
@@ -110,7 +108,7 @@ function App() {
 
                    <div> <Page6 /></div>
                     <div><Page7 /></div>
-                    <Login/>
+                 
                    
 
                
@@ -133,6 +131,10 @@ function App() {
                 </div>
                 <div><Blogs /></div>
                 </div>
+                <Login/>
+
+
+                <Register/>
 
 
 
