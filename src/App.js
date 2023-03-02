@@ -11,7 +11,7 @@ import Page4 from './Page4';
 import Page6 from './page6';
 import Page7 from './page7';
 import Page5 from './page5';
-import Popup from './popup';
+//import Popup from './popup';
 import Blogs from './blogs';
 
 
@@ -102,16 +102,17 @@ function App() {
                    <div> <Page6 /></div>
                     <div><Page7 /></div>
 
-                    <div><Blogs /></div>
+                   
 
 
                     
                 
             
-                <div className='w-[100%] h-16 bottom-0 fixed' >
-                    <Popup/>
+          {/*{<div className='w-[100%] h-16 bottom-0 fixed' >
+            <Popup/>
 
-                </div>
+                </div>}*/}
+                <div><Blogs /></div>
                 </div>
 
 
