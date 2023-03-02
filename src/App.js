@@ -15,6 +15,9 @@ import Popup from './popup';
 
 
 
+//import Popup from './popup';
+import Blogs from './blogs';
+
 
 import Similar from './similar';
 
@@ -107,7 +110,7 @@ function App() {
 
                    <div> <Page6 /></div>
                     <div><Page7 /></div>
-
+                    <Login/>
                    
 
                
@@ -115,16 +118,20 @@ function App() {
                    
 
 
-                  
+
 
 
                     
                 
             
-                <div className='w-[100%] h-16 bottom-0 fixed' >
-                    <Popup/>
+          <div className='w-[100%] h-16 bottom-0 fixed' >
+            <Popup/>
+
+
+            
 
                 </div>
+                <div><Blogs /></div>
                 </div>
 
 
