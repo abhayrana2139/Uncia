@@ -3,7 +3,13 @@ import profile from "./Logo/profile.svg"
 
 const blogs = () => {
   return (
+    
     <div className="w-auto h-auto pt-5 bg-pink-5  items-center text-center ">
+
+
+
+
+
 <div className='text-blue-500 font-bold text-[40px] pb-5 pl-9 pr-9 ] leading-[56px] relative justify-center text-center '>
   This Morning
   <div className='text-blue-700 text-[50px] my-[-2px]'>

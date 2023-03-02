@@ -7,6 +7,13 @@ const Login = () => {
 
 <section class="bg-white dark:bg-gray-900">
 <div className=" bg-gradient-to-r from-cyan-400 to-purple-500  bg-cover bg center  rounded-lg w-[100%]  h-full relative m-2  "  >
+
+  
+
+        
+
+
+
     
   <div class="flex   flex-col items-center justify-center px-6 py-8 mx-auto m-8 sm:h-screen lg:py-0 ">
      
