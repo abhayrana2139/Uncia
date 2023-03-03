@@ -71,29 +71,7 @@ const Update = () => {
 
 
     
-   {/* <div className='relative float-right pt-6   space-y-3 justify-center pr-10 text-center pl-1 w-[20%]'>
-        <img src={edit}/>
-
-        <img src={edit}/> 
-       
-        <img src={edit}/>
-
-
-
-
-    </div>
-
-    <div className='relative float-right pt-6  space-y-3  justify-center  text-center pl-1 w-[20%]'>        <img src={close}/>
-
-        <img src={close}/> 
-       
-        <img src={close}/>
-
-
-
-
-    </div>
-  */}
+   
   
     
 
