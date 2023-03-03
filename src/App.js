@@ -24,7 +24,8 @@ import Similar from './similar';
 import Combine from './combine';
 import Login from './pages/login/login';
 import Register from './pages/register/Register';
-
+import Write from './pages/write/Write';
+import Update from './pages/update/update';
 
 
 
@@ -120,21 +121,23 @@ function App() {
 
 
                     
-                
+               <Update/> 
             
-          <div className='w-[100%] h-16 bottom-0 fixed' >
+         {/* <div className='w-[100%] h-16 bottom-0 fixed' >
             <Popup/>
 
 
             
 
-                </div>
+    </div>*/} <Write/>
                 <div><Blogs /></div>
                 </div>
                 <Login/>
 
 
                 <Register/>
+               
+               
 
 
 
